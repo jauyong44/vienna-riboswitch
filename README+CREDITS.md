@@ -1,7 +1,8 @@
 This is a heavily work in progress platform for analyzing biosensors (riboswitches) and their compatability with a target virus. Don't expect things to work but we are working to change that!
 
 
-Credits\n
+Credits
+
 Kristy and Bhoomika for helping with the KMER analysis part of the code
 Andrew helped with the intial blueprint and outline of the code
 Syed for the data of the target strand and for minimum free energy analysis
