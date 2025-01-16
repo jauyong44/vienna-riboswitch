@@ -2,7 +2,6 @@ This is a heavily work in progress platform for analyzing biosensors (riboswitch
 
 
 Credits
-
 Kristy and Bhoomika for helping with the KMER analysis part of the code
 Andrew helped with the intial blueprint and outline of the code
 Syed for the data of the target strand and for minimum free energy analysis
